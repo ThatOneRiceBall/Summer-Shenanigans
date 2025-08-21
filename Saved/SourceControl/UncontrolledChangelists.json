@@ -8,7 +8,6 @@
 				"C:/github repositories/Summer-Shenanigans/Content/Assets/Shape_Sphere_Skel.uasset",
 				"C:/github repositories/Summer-Shenanigans/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"C:/github repositories/Summer-Shenanigans/Content/Player/BP_ThirdPersonBall.uasset",
-				"C:/github repositories/Summer-Shenanigans/Content/ThirdPerson/Blueprints/BP_ThirdPersonBall.uasset",
 				"C:/github repositories/Summer-Shenanigans/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4T/ZYWAKL06LG6OAEXAQ5M04N.uasset",
 				"C:/github repositories/Summer-Shenanigans/Content/Assets/dodgeball-free-download/source/Dodgeball.uasset",
 				"C:/github repositories/Summer-Shenanigans/Content/Assets/dodgeball-free-download/source/Dodgeball1.uasset",
@@ -16,6 +15,9 @@
 				"C:/github repositories/Summer-Shenanigans/Content/Assets/dodgeball-free-download/source/dodgeballsmaller_basecolor.uasset",
 				"C:/github repositories/Summer-Shenanigans/Content/Assets/dodgeball-free-download/textures/dodgeballsmaller_basecolor.uasset",
 				"C:/github repositories/Summer-Shenanigans/Content/Assets/dodgeball-free-download/textures/dodgeballsmaller_normal.uasset",
+				"C:/github repositories/Summer-Shenanigans/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset",
+				"C:/github repositories/Summer-Shenanigans/Content/Assets/dodgeball-free-download/textures/M_MasterMaterial.uasset",
+				"C:/github repositories/Summer-Shenanigans/Content/ThirdPerson/Blueprints/BP_ThirdPersonBall.uasset",
 				"C:/github repositories/Summer-Shenanigans/Ball_Fun/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/github repositories/Summer-Shenanigans/Ball_Fun/Content/ThirdPerson/Blueprints/BP_ThirdPersonBall.uasset",
 				"C:/github repositories/Summer-Shenanigans/Ball_Fun/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset"
