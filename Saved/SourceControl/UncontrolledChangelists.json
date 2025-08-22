@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/GitHub repositories/Summer-Shenanigans/Content/Splash/EdSplash.uasset",
+				"D:/GitHub repositories/Summer-Shenanigans/Content/Splash/Splash.uasset",
+				"D:/GitHub repositories/Summer-Shenanigans/Content/NewMap.umap",
+				"D:/GitHub repositories/Summer-Shenanigans/Content/WindmillValley/Levels/L_Showcase.umap",
+				"D:/GitHub repositories/Summer-Shenanigans/Content/__ExternalActors__/NewMap/3/I1/2GEKN5G8WFJU76W971LVZ6.uasset",
+				"D:/GitHub repositories/Summer-Shenanigans/Content/__ExternalActors__/NewMap/3/RQ/IDYJGR3104O8BB5QGLT3CP.uasset",
 				"C:/github repositories/Summer-Shenanigans/Content/Assets/Shape_Sphere_Skel.uasset",
 				"C:/github repositories/Summer-Shenanigans/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"C:/github repositories/Summer-Shenanigans/Content/Player/BP_ThirdPersonBall.uasset",
